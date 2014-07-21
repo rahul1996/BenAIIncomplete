@@ -3,7 +3,7 @@
 """
 Name:                         Benedict&Pack
 Version:                      1.0
-Author:                       Nirman Dave
+Author:                       Nirman Dave, Rahul Agarwal
 Description:                  An artificial intelligence system that conducts basic functions.
                               The package allows anyone to replicate this system, using few
                               lines of code and embed into apps.
